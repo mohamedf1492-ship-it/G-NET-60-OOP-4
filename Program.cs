@@ -11,6 +11,16 @@
             //Dynamic Binding:(Run Time)يتم التحديد وقت 
             //ex:Method Overriding باستخدام virtual وoverride
             #endregion
+
+            #region Q2
+            /*
+            Method Overloading: Defining multiple methods with the same name but
+            different parameter lists in the same class.
+
+             Method Overriding: Redefining an inherited virtual or abstract method in a derived class using 
+             the same method signature to provide a different implementation
+            */
+            #endregion
         }
     }
 }
